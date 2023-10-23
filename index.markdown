@@ -6,9 +6,9 @@ permalink: /
 
 <div style="display: flex; width: 100%; justify-content: space-evenly; align-items: center; gap: 2em">
 <img height=100 src="https://github.com/FinRL-Contest/ACM_ICAIF_2023/blob/main/web/app/assets/logos/acm.jpeg?raw=true"/>
+<img height=100 src="https://github.com/FinRL-Contest/ACM_ICAIF_2023/blob/main/web/app/assets/logos/columbia.jpeg?raw=true"/>
 <img height=100 src="https://github.com/FinRL-Contest/ACM_ICAIF_2023/blob/main/web/app/assets/logos/nyu.png?raw=true"/>
 <img height=100 src="https://github.com/FinRL-Contest/ACM_ICAIF_2023/blob/main/web/app/assets/logos/nu.png?raw=true"/>
-<img height=100 src="https://github.com/FinRL-Contest/ACM_ICAIF_2023/blob/main/web/app/assets/logos/columbia.jpeg?raw=true"/>
 <img height=100 src="https://github.com/FinRL-Contest/ACM_ICAIF_2023/blob/main/web/app/assets/logos/finrl.png?raw=true"/>
 </div>
 
@@ -99,7 +99,7 @@ This contest is judged on pure PnL. Strategies that fail to adhere to the templa
 
 | Photo                | Biography              |
 |----------------------|-------------------|
-| ![Xiao-Ying Liu](https://github.com/FinRL-Contest/ACM_ICAIF_2023/blob/main/web/app/assets/staffphotos/advisors/liu-xy.png?raw=true) | **Xiao-Yang Liu** Ph.D, Columbia University, faculty at RPI University. His research interests include deep reinforcement learning, big data, and high-performance computing. He co-authored a textbook on reinforcement learning for cyber-physical systems, a textbook on tensor for data processing. He serves as PC member for NeurIPS, ICML, ICLR, AAAI, IJCAI, AISTATS, KDD, ACM MM, ACM ICAIF, ICASSP, and a Session Chair for IJCAI 2019. He organized the NeurIPS 2020/2021 First/Second Workshop on Quantum Tensor Networks in Machine Learning, IJCAI 2020 Workshop on Tensor Networks Representations in Machine Learning, and NeurIPS 2019/2020 Workshop on Machine Learning for Autonomous Driving.|
+| ![Xiao-Ying Liu](https://github.com/FinRL-Contest/ACM_ICAIF_2023/blob/main/web/app/assets/staffphotos/advisors/liu-xy.png?raw=true) | **Xiao-Yang Liu** Ph.D., Columbia University, faculty at RPI University. His research interests include deep reinforcement learning, big data, and high-performance computing. He co-authored a textbook on reinforcement learning for cyber-physical systems, a textbook on tensor for data processing. He serves as PC member for NeurIPS, ICML, ICLR, AAAI, IJCAI, AISTATS, KDD, ACM MM, ACM ICAIF, ICASSP, and a Session Chair for IJCAI 2019. He organized the NeurIPS 2020/2021 First/Second Workshop on Quantum Tensor Networks in Machine Learning, IJCAI 2020 Workshop on Tensor Networks Representations in Machine Learning, and NeurIPS 2019/2020 Workshop on Machine Learning for Autonomous Driving.|
 | ![Zihan Ding](https://github.com/FinRL-Contest/ACM_ICAIF_2023/blob/main/web/app/assets/staffphotos/advisors/ding-zh.png?raw=true) | **Zihan Ding** Ph.D., Princeton University. His primary research interests are: deep reinforcement learning algorithms and applications. He serves as the reviewer of NeurIPS, ICLR, ICML, CVPR, ICCV, AAAI, AISTATS, RA-L, ICRA, IROS, CISS, AIM. He also served on the organization committee of Human in the Loop Learning (HiLL) Workshop at NeurIPS 2022.|
 | ![Zhaoran Wang](https://github.com/FinRL-Contest/ACM_ICAIF_2023/blob/main/web/app/assets/staffphotos/advisors/zhaoran.png?raw=true) | **Zhaoran Wang** Assistant Professor of IEMS and CS at Northwestern University.  Zhaoran's research focuses improving and scaling deep reinforcement learning to solve complicated societal challenges.|
 
