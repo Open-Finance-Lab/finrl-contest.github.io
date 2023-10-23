@@ -4,27 +4,13 @@ title: Overview
 permalink: /
 ---
 
-<style>
-  .logo-container {
-    display: flex;
-    width: 100%;
-    justify-content: space-evenly;
-    align-items: center;
-    gap: 2em;
-  }
-
-  .logo-container img {
-    height: 100%;
-    width: auto;
-    max-height: 100px; /* Set a maximum height for the images */
-  }
-
-  @media (max-width: 768px) {
-    .logo-container img {
-      max-height: 80px; /* Adjust maximum height for smaller screens */
-    }
-  }
-</style>
+<div style="display: flex; width: 100%; justify-content: space-evenly; align-items: center; gap: 2em;">
+  <img style="max-height: 100px; width: auto;" src="https://github.com/FinRL-Contest/ACM_ICAIF_2023/blob/main/web/app/assets/logos/acm.jpeg?raw=true" alt="ACM Logo">
+  <img style="max-height: 100px; width: auto;" src="https://github.com/FinRL-Contest/ACM_ICAIF_2023/blob/main/web/app/assets/logos/nyu.png?raw=true" alt="NYU Logo">
+  <img style="max-height: 100px; width: auto;" src="https://github.com/FinRL-Contest/ACM_ICAIF_2023/blob/main/web/app/assets/logos/nu.png?raw=true" alt="NU Logo">
+  <img style="max-height: 100px; width: auto;" src="https://github.com/FinRL-Contest/ACM_ICAIF_2023/blob/main/web/app/assets/logos/columbia.jpeg?raw=true" alt="Columbia Logo">
+  <img style="max-height: 100px; width: auto;" src="https://github.com/FinRL-Contest/ACM_ICAIF_2023/blob/main/web/app/assets/logos/finrl.png?raw=true" alt="FinRL Logo">
+</div>
 
 <div class="logo-container">
   <img src="https://github.com/FinRL-Contest/ACM_ICAIF_2023/blob/main/web/app/assets/logos/acm.jpeg?raw=true" alt="ACM Logo">
