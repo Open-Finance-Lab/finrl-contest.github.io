@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: ACM ICAIF 2023
+title: ACM ICAIF 2023 FinRL Contest
 email: finrlcontest@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Website for the ACM ICAIF 2023 FinRL Contest.
