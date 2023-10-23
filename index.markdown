@@ -19,9 +19,13 @@ The FinRL Contest presents two tasks, data-centric stock trading and real time o
 ## Data
 We have more than 30 market data sources to deal with different financial tasks. We hold the data APIs and sample market environments in an open-source repository, FinRL-Meta, as shown in Figure 1. Contestants are welcome to explore and use in the FinRL Contest.
 
+![figure1](https://github.com/FinRL-Contest/ACM_ICAIF_2023/blob/main/web/app/assets/figures/fig1.png?raw=true)
+
 ## Environment
 With a deep reinforcement learning approach, market datasets are processed into gym-style market environments. Table 1 lists the state spaces, action spaces, and reward functions of
 different FinRL applications. A state shows how an agent perceives a market situation. Facing a state, the agent can take an action from the action set, which may vary according to the financial tasks. Reward is an incentive mechanism for an agent to learn a better policy. Contestants will specify the state space, action space, and reward functions in the environment for Task I Data-Centric Stock Trading.
+
+![table1](https://github.com/FinRL-Contest/ACM_ICAIF_2023/blob/main/web/app/assets/figures/table1.png?raw=true)
 
 ## Timeline
 * **Submission Open**: October 25th, 2023
