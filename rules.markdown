@@ -12,11 +12,3 @@ The rules of the FinRL Contest aim to ensure fairness, transparency, and ethical
 4. Contestants can communicate with the organizers through Discord or email.
 5. We embrace the open-source community. At the end of the contest, contestants are encouraged to release their work as open-source.
 6. Contestants are expected to adhere to the highest standards of ethical conduct and integrity throughout the contest.
-
-<div style="display: flex; width: 100%; justify-content: space-evenly; align-items: center; gap: 2em">
-<img height=100 src="https://github.com/FinRL-Contest/ACM_ICAIF_2023/blob/main/web/app/assets/logos/acm.jpeg?raw=true"/>
-<img height=100 src="https://github.com/FinRL-Contest/ACM_ICAIF_2023/blob/main/web/app/assets/logos/nyu.png?raw=true"/>
-<img height=100 src="https://github.com/FinRL-Contest/ACM_ICAIF_2023/blob/main/web/app/assets/logos/nu.png?raw=true"/>
-<img height=100 src="https://github.com/FinRL-Contest/ACM_ICAIF_2023/blob/main/web/app/assets/logos/columbia.jpeg?raw=true"/>
-<img height=100 src="https://github.com/FinRL-Contest/ACM_ICAIF_2023/blob/main/web/app/assets/logos/finrl.png?raw=true"/>
-</div>
