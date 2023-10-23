@@ -7,16 +7,22 @@ permalink: /
 <style>
   .logo-container {
     display: flex;
+    width: 100%;
     justify-content: space-evenly;
     align-items: center;
     gap: 2em;
   }
 
   .logo-container img {
-    height: auto;
-    max-height: 100px;
+    height: 100%;
     width: auto;
-    max-width: 100%;
+    max-height: 100px; /* Set a maximum height for the images */
+  }
+
+  @media (max-width: 768px) {
+    .logo-container img {
+      max-height: 80px; /* Adjust maximum height for smaller screens */
+    }
   }
 </style>
 
