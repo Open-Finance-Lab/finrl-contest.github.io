@@ -41,7 +41,7 @@ different FinRL applications. A state shows how an agent perceives a market situ
 Table 1: List of state space, action space, and reward function
 
 ## Timeline
-* **Submission Open**: October 25th, 2023
+* **Submission Open**: October 30th, 2023
 * **Submission Deadline**: November 12th, 2023
 * **Results Announced**: November 25th, 2023
 
@@ -50,7 +50,7 @@ Table 1: List of state space, action space, and reward function
 Each team can choose to participate in one or both tasks.
 
 ### Starter Kit
-The Starter Kit will be available at Github.
+The starter kit and related resources will be available at [Github](https://github.com/FinRL-Contest/FinRL_Contest_Starter_Kit).
 
 ### Task I: Data-Centric Stock Trading
 This task emphasizes data engineering in building FinRL agents. The contestants are encouraged to devise novel data-centric strategies to clean, transform, and aggregate stock data to improve trading performance, with the model being fixed.
