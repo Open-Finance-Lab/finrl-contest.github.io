@@ -4,10 +4,14 @@ title: Overview
 permalink: /
 ---
 
-
-<div style="text-align: center; display: flex; width: 100%; justify-content: space-evenly; align-items: center">
-  <img width="100%" src="https://github.com/FinRL-Contest/ACM_ICAIF_2023/blob/main/web/app/assets/long-logo.png?raw=true" alt="ACM Logo">
-</div>
+<div style="text-align: center; display: flex; width: 80%; justify-content: space-evenly; align-items: center; gap: 1em; padding: 2em">
+  <img style="width: 14%;" src="https://github.com/FinRL-Contest/ACM_ICAIF_2023/blob/main/web/app/assets/logos/acm.jpeg?raw=true" alt="ACM Logo">
+  <img style="width: 14%;" src="https://github.com/FinRL-Contest/ACM_ICAIF_2023/blob/main/web/app/assets/logos/columbia.jpeg?raw=true" alt="Columbia Logo">
+  <img style="width: 14%;" src="https://github.com/FinRL-Contest/ACM_ICAIF_2023/blob/main/web/app/assets/logos/nyu.png?raw=true" alt="NYU Logo">
+  <img style="width: 14%;" src="https://github.com/FinRL-Contest/ACM_ICAIF_2023/blob/main/web/app/assets/logos/nu.png?raw=true" alt="NU Logo">
+  <img style="width: 14%;" src="https://github.com/FinRL-Contest/ACM_ICAIF_2023/blob/main/web/app/assets/logos/rpi.png?raw=true" alt="RPI logo">
+  <img style="width: 14%;" src="https://github.com/FinRL-Contest/ACM_ICAIF_2023/blob/main/web/app/assets/logos/idea.jpeg?raw=true" alt="IDEA logo">
+  <img style="width: 16%;" src="https://github.com/FinRL-Contest/ACM_ICAIF_2023/blob/main/web/app/assets/logos/finrl.png?raw=true" alt="FinRL Logo">
 
 Financial reinforcement learning (FinRL), as an interdisciplinary field of finance and reinforcement learning, has been recognized as a promising approach to financial tasks. Over the past decade, deep reinforcement learning (DRL) has achieved remarkable success in solving complex problems across a variety of domains, including robotics, gaming, and large language models like ChatGPT and GPT-4. The success of DRL has also led to its application in finance, where it has demonstrated great potential for enhancing the performance of financial tasks, such as portfolio management, option pricing, and algorithmic trading.
 
