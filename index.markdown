@@ -40,8 +40,10 @@ different FinRL applications. A state shows how an agent perceives a market situ
 Table 1: List of state space, action space, and reward function
 
 ## Timeline
+* **Team Registration Begin**: October 26th, 2023
 * **Submission Open**: October 30th, 2023
-* **Submission Deadline**: November 12th, 2023
+* **Code Submission Deadline**: November 12th, 2023
+* **Report Submission Deadline**: November 20th, 2023
 * **Results Announced**: November 25th, 2023
 
 ## Task
@@ -60,12 +62,20 @@ A dataset containing OHLCV data for stocks is provided. Contestants are free to 
 2. Ensure that your data pipeline is reproducible with unseen, new data.
 3. Use the same model design without modification for a fair comparison. Specifically, teams are asked to use the PPO algorithm in the FinRL library with tunable hyperparameters.
 
+Each team should also submit a 1-2 page report with the [ACM sigconf template](https://www.overleaf.com/latex/templates/acm-conference-proceedings-primary-article-template/wbvnghjbzwpc) through Open Review.  
+
 #### Evaluation
-The final ranking is produced based on the geometric mean of the following metrics:
+**Quantitative assessment** is the geometric mean of the following metrics:
 
 1. Portfolio cumulative return. It measures the excess returns.
 2. Sharpe ratio. It takes into account both the returns of the portfolio and the level of risk.
 3. Max drawdown. It is the portfolio’s largest percentage drop from a peak to a trough in a certain time period, which provides a measure of downside risk.
+
+**Qualitative assessment** of the report:
+
+The assessment of the reports will be conducted for each task by invited experts and professionals. The judges will independently rate the data and model analysis, results and discussion, robustness and generalizability, innovation and creativity, organization and readability, each accounting for 20% of the qualitative assessment. 
+
+The final ranking will be determined by the combination of 60% quantitative and 40% qualitative assessment.
 
 ### Task II: Real Time Order Execution
 This task focuses on building lightweight algorithmic trading systems in a fair environment.
