@@ -40,6 +40,7 @@ different FinRL applications. A state shows how an agent perceives a market situ
 Table 1: List of state space, action space, and reward function
 
 ## Timeline
+* **Team Registration Begin**: October 26th, 2023
 * **Submission Open**: October 30th, 2023
 * **Submission Deadline**: November 12th, 2023
 * **Results Announced**: November 25th, 2023
