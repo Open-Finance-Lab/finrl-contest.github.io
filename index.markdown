@@ -5,7 +5,7 @@ permalink: /
 ---
 
 <div style="text-align: center; display: flex; width: 80%; justify-content: space-evenly; align-items: center; gap: 1em; padding: 2em">
-  <img style="width: 14%;" src="https://github.com/FinRL-Contest/ACM_ICAIF_2023/blob/main/web/app/assets/logos/acm.jpeg?raw=true" alt="ACM Logo">
+  <img style="width: 14%;" src="https://github.com/FinRL-Contest/ACM_ICAIF_2023/blob/main/web/app/assets/logos/acm.png?raw=true" alt="ACM Logo">
   <img style="width: 14%;" src="https://github.com/FinRL-Contest/ACM_ICAIF_2023/blob/main/web/app/assets/logos/columbia.jpeg?raw=true" alt="Columbia Logo">
   <img style="width: 14%;" src="https://github.com/FinRL-Contest/ACM_ICAIF_2023/blob/main/web/app/assets/logos/nyu.png?raw=true" alt="NYU Logo">
   <img style="width: 14%;" src="https://github.com/FinRL-Contest/ACM_ICAIF_2023/blob/main/web/app/assets/logos/nu.png?raw=true" alt="NU Logo">
