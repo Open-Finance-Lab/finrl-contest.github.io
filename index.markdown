@@ -76,7 +76,7 @@ Each team should also submit a 1-2 page report with the [ACM sigconf template](h
 
 **Qualitative assessment** of the report:
 
-The assessment of the reports will be conducted for each task by invited experts and professionals. The judges will independently rate the data and model analysis, results and discussion, robustness and generalizability, innovation and creativity, organization and readability, each accounting for 20% of the qualitative assessment. 
+The assessment of the reports will be conducted by invited experts and professionals. The judges will independently rate the data and model analysis, results and discussion, robustness and generalizability, innovation and creativity, organization and readability, each accounting for 20% of the qualitative assessment. 
 
 The final ranking will be determined by the combination of 60% quantitative and 40% qualitative assessment.
 
@@ -85,8 +85,16 @@ This task focuses on building lightweight algorithmic trading systems in a fair 
 
 A template will be provided for contestants, and each team needs to write their functions in this template to perform order execution. We will provide an exchange of limit order book data to interact with contestants. After the contest, we will conduct real-time trading for all teams' submissions at the same time. We would advise you to keep your algorithms lightweight. 
 
+Each team should also submit a 1-2 page report with the [ACM sigconf template](https://www.overleaf.com/latex/templates/acm-conference-proceedings-primary-article-template/wbvnghjbzwpc) through Open Review.  
+
 #### Evaluation
-This contest is judged on pure PnL. Strategies that fail to adhere to the template will be disqualified, as well as any strategies that fail to pass linting.
+**Quantitative assessment** is pure PnL. Strategies that fail to adhere to the template will be disqualified, as well as any strategies that fail to pass linting.
+
+**Qualitative assessment** of the report is the same as Task I:
+
+The assessment of the reports will be conducted by invited experts and professionals. The judges will independently rate the data and model analysis, results and discussion, robustness and generalizability, innovation and creativity, organization and readability, each accounting for 20% of the qualitative assessment.
+
+The final ranking will be determined by the combination of 60% quantitative and 40% qualitative assessment.
 
 ## Organizers
 
