@@ -134,6 +134,6 @@ The final ranking will be determined by the combination of 60% quantitative and 
 | ![Jian Guo](https://github.com/FinRL-Contest/ACM_ICAIF_2023/blob/main/web/app/assets/staffphotos/advisors/jian_guo.png?raw=true) | **Jian Guo** is currently the Executive President and a Chief Scientist at International Digital Economy Academy (IDEA). As a founding member of IDEA, he also serves as the head of IDEA Research Center of AI Finance & Deep Learning and a Professor of Practice at the Hong Kong University of Science and Technology (Guangzhou). Dr. Guo received his B.S. in mathematics from Tsinghua University, and received his Ph.D. in statistics from University of Michigan in 2011. He started his professorship (tenure-track) at Harvard University since 2011. He published a number of research papers in deep/reinforcement/statistical learning, including theory and application. Dr. Guo is one of the pioneering AI finance researchers, and is an entrepreneur in quantitative investment industry.|
 
 ## Contact
-Contestants can communicate any questions on [Discord](https://discord.gg/236g3gqb).
+Contestants can communicate any questions on [Discord](https://discord.gg/jHTFE4nz).
 
 Contact email: [finrlcontest@gmail.com](mailto:finrlcontest@gmail.com)
