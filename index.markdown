@@ -47,7 +47,10 @@ Table 1: List of state space, action space, and reward function
 * **Submission Open**: October 30th, 2023
 * **Solution Submission Deadline**: November 12th, 2023
 * **Report Submission Deadline**: November 20th, 2023
-* **Results Announced**: November 25th, 2023
+* **Winner Notification**: November 25th, 2023
+* **Winner Announcement**: November 27th ~ 29th, 2023
+
+Winners will be invited to attend the ACM ICAIF 2023 conference and have the opportunity to present their work at the conference.
 
 ## Task
 
