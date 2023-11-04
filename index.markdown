@@ -50,6 +50,9 @@ Table 1: List of state space, action space, and reward function
 * **Winner Notification**: November 25th, 2023
 * **Winner Announcement**: November 27th ~ 29th, 2023
 
+<span style="color:blue;">(All deadlines are at 11:59pm EST on the specified date.)</span>
+
+
 Winners will be invited to attend the ACM ICAIF 2023 conference and have the opportunity to present their work at the conference.
 
 ## Task
