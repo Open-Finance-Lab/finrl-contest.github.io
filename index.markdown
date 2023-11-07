@@ -17,7 +17,7 @@ permalink: /
   <img style="width: 20%;" src="https://github.com/FinRL-Contest/ACM_ICAIF_2023/blob/main/web/app/assets/logos/finrl.png?raw=true" alt="FinRL Logo">
 </div>
 
-#### Thank You to Our Sponsors
+#### **Thank You to Our Sponsors**
 <div style="text-align: center; display: flex; width: 80%; justify-content: space-evenly; align-items: center; gap: 1em; padding: 2em">
   <img style="width: 20%;" src="https://github.com/FinRL-Contest/ACM_ICAIF_2023/blob/main/web/app/assets/logos/NYUCenter.png?raw=true" alt="NYUCenter logo">
   <img style="width: 20%;" src="https://github.com/FinRL-Contest/ACM_ICAIF_2023/blob/main/web/app/assets/logos/vatic.png?raw=true" alt="VATIC logo">
