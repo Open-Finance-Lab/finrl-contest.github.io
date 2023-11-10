@@ -63,7 +63,8 @@ Winners will be invited to attend the ACM ICAIF 2023 conference and have the opp
 
 ## Task
 
-Each team can choose to participate in one or both tasks.
+Each team can choose to participate in one or both tasks. <span style="color:red;">The prizes will be awarded for each task.</span>
+
 
 ### Starter Kit
 The starter kit and related resources will be available at [Github](https://github.com/FinRL-Contest/FinRL_Contest_Starter_Kit).
@@ -77,7 +78,7 @@ A dataset containing OHLCV data for stocks is provided. Contestants are free to 
 2. Ensure that your data pipeline is reproducible with unseen, new data.
 3. Use the same model design without modification for a fair comparison. Specifically, teams are asked to use the PPO algorithm in the FinRL library with tunable hyperparameters.
 
-Each team should also submit a 1-2 page report with the [ACM sigconf template](https://www.overleaf.com/latex/templates/acm-conference-proceedings-primary-article-template/wbvnghjbzwpc) through Open Review.  
+Each team should also submit a 1-2 page report with the [ACM sigconf template](https://www.overleaf.com/latex/templates/acm-conference-proceedings-primary-article-template/wbvnghjbzwpc) through [Open Review](https://openreview.net/group?id=ACM.org/ICAIF/2023/FinRL_Contest). The title should start with “FinRL Contest Task I.”
 
 #### Evaluation
 **Quantitative assessment** is the geometric mean of the following metrics:
@@ -97,7 +98,8 @@ This task focuses on building lightweight algorithmic trading systems in a fair 
 
 A template will be provided for contestants, and each team needs to write their functions in this template to perform order execution. We will provide an exchange of limit order book data to interact with contestants. After the contest, we will conduct real-time trading for all teams' submissions at the same time. We would advise you to keep your algorithms lightweight. 
 
-Each team should also submit a 1-2 page report with the [ACM sigconf template](https://www.overleaf.com/latex/templates/acm-conference-proceedings-primary-article-template/wbvnghjbzwpc) through [Open Review](https://openreview.net/group?id=ACM.org/ICAIF/2023/FinRL_Contest).  
+Each team should also submit a 1-2 page report with the [ACM sigconf template](https://www.overleaf.com/latex/templates/acm-conference-proceedings-primary-article-template/wbvnghjbzwpc) through [Open Review](https://openreview.net/group?id=ACM.org/ICAIF/2023/FinRL_Contest). The title should start with “FinRL Contest Task II.”
+
 
 #### Evaluation
 **Quantitative assessment** is pure PnL. Strategies that fail to adhere to the template will be disqualified, as well as any strategies that fail to pass linting.
