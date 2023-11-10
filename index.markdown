@@ -97,7 +97,7 @@ This task focuses on building lightweight algorithmic trading systems in a fair 
 
 A template will be provided for contestants, and each team needs to write their functions in this template to perform order execution. We will provide an exchange of limit order book data to interact with contestants. After the contest, we will conduct real-time trading for all teams' submissions at the same time. We would advise you to keep your algorithms lightweight. 
 
-Each team should also submit a 1-2 page report with the [ACM sigconf template](https://www.overleaf.com/latex/templates/acm-conference-proceedings-primary-article-template/wbvnghjbzwpc) through Open Review.  
+Each team should also submit a 1-2 page report with the [ACM sigconf template](https://www.overleaf.com/latex/templates/acm-conference-proceedings-primary-article-template/wbvnghjbzwpc) through [Open Review](https://openreview.net/group?id=ACM.org/ICAIF/2023/FinRL_Contest).  
 
 #### Evaluation
 **Quantitative assessment** is pure PnL. Strategies that fail to adhere to the template will be disqualified, as well as any strategies that fail to pass linting.
