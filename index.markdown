@@ -50,7 +50,7 @@ Table 1: List of state space, action space, and reward function
 ## Timeline
 * **Team Registration Begin**: October 26th, 2023
 * **Submission Open**: October 30th, 2023
-* **Solution Submission Deadline**: November 12th, 2023
+* **Solution Submission Deadline**: ~~November 12th, 2023~~ <span style="color:red;">November 14th, 2023</span>
 * **Report Submission Deadline**: November 20th, 2023
 * **Winner Notification**: November 25th, 2023
 * **Winner Announcement**: November 27th ~ 29th, 2023
