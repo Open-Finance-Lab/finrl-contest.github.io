@@ -71,7 +71,7 @@ Each team can choose to participate in one or both tasks. The prizes will be awa
 
 
 ### Starter Kit
-The starter kit and related resources will be available at [Github](https://github.com/Open-Finance-Lab/FinRL_Contest_Starter_Kit).
+The starter kit and related resources will be available at [Github](https://github.com/Open-Finance-Lab/FinRL_Contest_2023).
 
 ### Task I: Data-Centric Stock Trading
 This task emphasizes data engineering in building FinRL agents. The contestants are encouraged to devise novel data-centric strategies to clean, transform, and aggregate stock data to improve trading performance, with the model being fixed.
