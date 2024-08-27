@@ -65,7 +65,7 @@ Table 1: List of state space, action space, and reward function
 
 Winners will be invited to attend the ACM ICAIF 2023 conference and have the opportunity to present their work at the conference.
 
-## Task
+## Tasks
 
 Each team can choose to participate in one or both tasks. The prizes will be awarded for each task.
 
