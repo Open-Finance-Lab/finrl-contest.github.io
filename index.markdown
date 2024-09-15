@@ -24,7 +24,7 @@ permalink: /
 </div>
 
 #### **Annoucements**
-<span style="color:red;">We extend the solution submission deadline to Nov 14th!</span>
+<span style="color:red;">Welcome to participate in [FinRL Contest 2024](https://open-finance-lab.github.io/finrl-contest-2024.github.io/)!</span>
 
 
 Financial reinforcement learning (FinRL), as an interdisciplinary field of finance and reinforcement learning, has been recognized as a promising approach to financial tasks. Over the past decade, deep reinforcement learning (DRL) has achieved remarkable success in solving complex problems across a variety of domains, including robotics, gaming, and large language models like ChatGPT and GPT-4. The success of DRL has also led to its application in finance, where it has demonstrated great potential for enhancing the performance of financial tasks, such as portfolio management, option pricing, and algorithmic trading.
