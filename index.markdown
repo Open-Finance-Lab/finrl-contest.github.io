@@ -85,7 +85,7 @@ A dataset containing OHLCV data for stocks is provided. Contestants are free to 
 Each team should also submit a 1-2 page report with the [ACM sigconf template](https://www.overleaf.com/latex/templates/acm-conference-proceedings-primary-article-template/wbvnghjbzwpc) through [Open Review](https://openreview.net/group?id=ACM.org/ICAIF/2023/FinRL_Contest). The title should start with “FinRL Contest Task I.”
 
 #### Evaluation
-**Quantitative assessment** is the geometric mean of the following metrics:
+**Quantitative assessment** is the geometric mean of the rankings of the following metrics:
 
 1. Portfolio cumulative return. It measures the excess returns.
 2. Sharpe ratio. It takes into account both the returns of the portfolio and the level of risk.
