@@ -22,10 +22,8 @@ permalink: /
   <img style="width: 60%;" src="https://github.com/Open-Finance-Lab/ACM_ICAIF_2023/blob/main/web/app/assets/logos/NYUCenter.png?raw=true" alt="NYUCenter logo">
 </div>
 
-### We're thrilled to announce **FinRL Contest 2025**!  Check out the contest [website](https://open-finance-lab.github.io/FinRL_Contest_2025/) and [GitHub](https://github.com/Open-Finance-Lab/FinRL_Contest_2025) for details! 
+#### We're thrilled to announce **FinRL Contest 2025**!  Check out the contest [website](https://open-finance-lab.github.io/FinRL_Contest_2025/) and [GitHub](https://github.com/Open-Finance-Lab/FinRL_Contest_2025) for details! 
 
-#### **GitHub**
-The starter kit and related resources are available at [Github](https://github.com/Open-Finance-Lab/FinRL_Contest_2024).
 
 #### **GitHub** 
 The starter kit and related resources are available at [Github](https://github.com/Open-Finance-Lab/FinRL_Contest_2023).
